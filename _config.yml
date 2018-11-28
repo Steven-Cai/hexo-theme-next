@@ -205,8 +205,9 @@ links_icon: link
 links_title: Links
 links_layout: block
 #links_layout: inline
-#links:
+links:
   #Title: http://example.com
+  Instructables: http://www.instructables.com
 
 # Sidebar Avatar
 avatar:
