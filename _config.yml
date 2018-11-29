@@ -208,6 +208,20 @@ links_layout: block
 links:
   #Title: http://example.com
   Instructables: http://www.instructables.com
+  Many But Finite: https://manybutfinite.com
+  WOWO Tech: http://www.wowotech.net
+  LWN.net: https://lwn.net
+  kernelnewbies: https://kernelnewbies.org
+  Vamei: https://www.cnblogs.com/vamei
+  依云: https://blog.lilydjwg.me
+  fudan_abc: https://me.csdn.net/fudan_abc
+  学而时嘻之: https://www.geekonomics10000.com
+  CoolShell: https://coolshell.cn
+  Mind Hacks: http://mindhacks.cn
+  王垠: http://www.yinwang.org
+  千江有水: http://changeless.me
+  阮一峰: http://www.ruanyifeng.com/blog
+  Mose Code: https://www.cnblogs.com/pengdonglin137
 
 # Sidebar Avatar
 avatar:
